@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+.row a 
+{
+    color: white;
+    text-decoration: none;
+
+}
+.row a:hover
+{
+    color: red;
+}
+footer
+{
+    color: white;
+}
